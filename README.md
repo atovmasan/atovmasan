@@ -11,10 +11,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU"></p>
-<p align="left"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></p>
-<p align="left"><img width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"></p>
-<p align="left"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"></p>
+<p align="left"><img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU">
+<p align="left"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
+<p align="left"><img width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"><
+<p align="left"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
 <p align="left"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png"></p>
 
 
@@ -27,6 +27,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atovmasan&show_icons=true&locale=en&layout=compact" alt="atovmasan" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atovmasan&repo=PhoneSploit-Pro" alt="atovmasan" /></p>
-
