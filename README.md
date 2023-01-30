@@ -10,7 +10,7 @@
 - Connect with me on Telegram: @atovmasan1
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="left">
     <img display="inline" width="40" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png">
     <img display="inline" width="45" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
@@ -22,7 +22,7 @@
 
 ![Snake](https://github.com/AzeemIdrisi/AzeemIdrisi/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=atovmasan&show_icons=true&include_all_commits=true&locale=en" alt="azeemidrisi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atovmasan&show_icons=true&include_all_commits=true&locale=en" alt="azeemidrisi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atovmasan&" alt="atovmasan" /></p>
 
