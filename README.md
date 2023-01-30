@@ -14,7 +14,7 @@
 <p align="left">
     <img display="inline" width="40" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png">
     <img display="inline" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
-    <img display="inline" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"><
+    <img display="inline" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
     <img display="inline" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-  CSS3_logo_and_wordmark.svg.png">
     <img display="inline" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png">
 </p>
