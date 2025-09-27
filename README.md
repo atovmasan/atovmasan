@@ -1,7 +1,7 @@
 - # 💫 About Me:
 I am currently working at music player website for my study React <br>
 I try to spend a lot of time understanding the fundamental principles <br>
-Also i am learning 3D and funny fact I can say any word bacwards <br>
+Also i am learning 3D and funny fact I can say any word bacw ards <br>
 You can also connect wit me on telegram @atovmasan1
 
 
