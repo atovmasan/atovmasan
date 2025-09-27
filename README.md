@@ -13,7 +13,7 @@ You can also connect wit me on telegram @atovmasan1
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atovmasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atovmasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atomasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atovmasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=atovmasan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
